@@ -24,6 +24,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CodeGolfValidHtml5Library\CodeGolfValidHtml5Library.csproj" />
+    <ProjectReference Include="..\CodeGolfValidHtml5Web\CodeGolfValidHtml5Web.csproj" />
   </ItemGroup>
 
 </Project>
