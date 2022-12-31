@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CodeGolfValidHtml5Library\CodeGolfValidHtml5Library.csproj" />
+  </ItemGroup>
+
 </Project>
