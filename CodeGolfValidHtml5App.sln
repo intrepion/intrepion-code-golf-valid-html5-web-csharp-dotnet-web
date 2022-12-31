@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGolfValidHtml5Library", "CodeGolfValidHtml5Library\CodeGolfValidHtml5Library.csproj", "{0001C715-5735-48A1-B8FE-5ABD8149EBC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGolfValidHtml5Web", "CodeGolfValidHtml5Web\CodeGolfValidHtml5Web.csproj", "{CADD0BAD-71F2-4598-840B-6D2EA7B160F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{0001C715-5735-48A1-B8FE-5ABD8149EBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0001C715-5735-48A1-B8FE-5ABD8149EBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0001C715-5735-48A1-B8FE-5ABD8149EBC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADD0BAD-71F2-4598-840B-6D2EA7B160F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADD0BAD-71F2-4598-840B-6D2EA7B160F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADD0BAD-71F2-4598-840B-6D2EA7B160F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADD0BAD-71F2-4598-840B-6D2EA7B160F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
